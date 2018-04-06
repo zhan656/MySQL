@@ -1,4 +1,6 @@
 USE animals_db;
+/* call database Animal*/
+
 
 CREATE TABLE people (
   name VARCHAR(30) NOT NULL,
