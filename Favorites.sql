@@ -37,3 +37,5 @@ CREATE TABLE favorite_movies (
 );
 
 select * from favorite_movies;
+
+

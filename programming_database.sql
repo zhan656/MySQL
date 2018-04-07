@@ -22,4 +22,5 @@ insert into programming_languages(languages,rating)
 value ('C',1);
 
 
+
 select * from programming_languages;
